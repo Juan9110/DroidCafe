@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="nota">Nota</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="direccion">Direccion</string>
+    <string name="donut_order_message">Has elegido un Donut</string>
+    <string name="ice_cream_order_message">Has elegido un Helado</string>
+    <string name="froyo_order_message">Has elegido un Yogur</string>
+    <string name="Postre">Reposteria y Heladeria J.G</string>
+    <string name="Donut">Donut</string>
+    <string name="Helado">Helado</string>
+    <string name="Yogur">Yogur</string>
+    <string name="app_name">postre</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notas">Notas</string>
+    <string name="valor">Valor</string>
+</resources>
